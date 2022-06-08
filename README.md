@@ -2,7 +2,7 @@
 <h1 align="center"> DomoSushi </h1>
 <br/>
 
-<p> A website created for a family restaurant, used to help users learn about the restaurant and the selection of foods they serve.<p/>
+<p> A prototype website created for a family restaurant, used to help users learn about the restaurant and the selection of foods they serve.<p/>
 
 <h1 align="center"> Demo </h1>
 <h3> --> Home Page <-- </h3>
