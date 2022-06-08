@@ -4,6 +4,8 @@
 
 <p> A website created for a family restaurant, used to help users learn about the restaurant and the selection of foods they serve.<p/>
 
+<h2> Preview <h2/>
+<br/>
 <h3> --> Home Page <h3/>
 
   ![home](https://user-images.githubusercontent.com/97468788/172720028-8907b08e-e79f-40c2-8be4-9022503b81f0.png)
