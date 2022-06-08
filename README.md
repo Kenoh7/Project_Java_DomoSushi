@@ -18,9 +18,8 @@
   ![location](https://user-images.githubusercontent.com/97468788/172720040-ada00493-1c61-415d-bab5-e49c1ef2e729.png)
 
 <h2> Built With </h2>
-
 <br/>
-- Java
-- Spring Boot<p
 - HTML
 - CSS
+- Java
+- Spring Boot
