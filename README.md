@@ -18,9 +18,7 @@
 
 <h2> Built With <h2/>
 <br>
-<ul>
-    <li>Java<li/>
-    <li>Spring-Boot<li/>
-    <li>HTML<li/>
-    <li>CSS<li/>
-<ul/>
+- Java
+- Spring Boot
+- HTML
+- CSS
