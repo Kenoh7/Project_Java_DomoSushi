@@ -4,6 +4,14 @@
 
 <p> A prototype website created for a family restaurant, used to help users learn about the restaurant and the selection of foods they serve.<p/>
 
+<h2> Built With </h2>
+<br/>
+  
+- HTML
+- CSS
+- Java
+- Spring Boot
+
 <h1 align="center"> Demo </h1>
 <h3> --> Home Page <-- </h3>
 
@@ -17,10 +25,3 @@
 
   ![location](https://user-images.githubusercontent.com/97468788/172720040-ada00493-1c61-415d-bab5-e49c1ef2e729.png)
 
-<h2> Built With </h2>
-<br/>
-  
-- HTML
-- CSS
-- Java
-- Spring Boot
