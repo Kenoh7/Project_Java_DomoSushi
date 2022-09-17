@@ -7,7 +7,6 @@
 <h2> Built With </h2>
 <br/>
   
-- Jsp
 - CSS
 - Java
 - Spring Boot
